@@ -2,7 +2,11 @@
 
 ## Overview
 
-This repository focuses on gradient descent optimization and regularized logistic regression, offering efficient tools for L1 and L2 regularization and behavior analysis.
+This project implements gradient descent optimization and logistic regression with regularization. It includes:
+
+- Gradient descent with customizable learning rate strategies.
+- Regularized logistic regression supporting L1 and L2 penalties.
+- Visualizations of optimization behavior and model performance.
 
 ## Files
 
